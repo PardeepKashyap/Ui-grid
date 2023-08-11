@@ -1,5 +1,3 @@
-import { Player } from '../types'
-
 export class Deployment {
 
   auth: any
