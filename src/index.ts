@@ -1,1 +1,1 @@
-export { getMessage } from './util'
+export { Deployment } from './Deployment'
